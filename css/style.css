@@ -2,3 +2,6 @@ body {
     background-color: rgb(189, 218, 228);
 }
 
+p, h3 { 
+    cursor: pointer;
+ }
